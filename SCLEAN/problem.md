@@ -11,12 +11,12 @@ Print the final string after removing the same consecutive trees.
 - First line contains `T` representing number of testcases
 - Following `T` lines have strings representing position of trees in the garden
 
-###Output:
+### Output:
 - `T` lines showing the resultant trees after removing the same consecutive trees.
 
-###Sample Input:-
+### Sample Input:-
     1
     aaaabbbcbaaabcccba
 
-###Sample Output:-
+### Sample Output:-
     abcbabcba
