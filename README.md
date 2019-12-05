@@ -1,1 +1,5 @@
-# codechef2k19-dec6
+# IntroChef
+
+## 6th December 2019; 12 PM
+
+## on CodeChef
